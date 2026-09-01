@@ -21,7 +21,7 @@ Dataset that used in the project: https://huggingface.co/datasets/coeuslearning/
 
 List and description of the main files:
 
-\`\`\`
+
 main.py                     # entry point: runs the RAG pipeline with a test query
 |
 notebooks/
@@ -33,7 +33,7 @@ src/
 ├── llm.py                  # Gemini
 ├── chain.py                # creating RAG pipeline
 └── config.py               # setting 
-\`\`\`
+
 
 ## Results
 
