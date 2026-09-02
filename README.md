@@ -1,7 +1,7 @@
 # Hotel Reviews RAG
 
 ## Project Overview
-The project uses RAG (Retrieval-Augmented Generation) technology to generate accurate and relevant responses based on hotel reviews. The system combines vector database retrieval with response generation via an LLM, relying on context from guest reviews.
+The project implements RAG (Retrieval-Augmented Generation) technology to generate accurate and relevant responses based on hotel reviews. The system combines vector database retrieval with response generation via an LLM, relying on context from guest reviews.
 
 ## Data
 Dataset that used in the project: https://huggingface.co/datasets/coeuslearning/hotel_reviews
